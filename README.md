@@ -1,4 +1,4 @@
-# Hi there, I'm Jonathan HERNANDEZ! 👋
+# Hi there, I'm Jonathan Hernandez! 👋
 
 <p align="center">
   <a href="https://github.com/UrielHernandez03">
