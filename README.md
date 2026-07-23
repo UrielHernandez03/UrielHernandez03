@@ -1,4 +1,4 @@
-# Hi there, I'm Jonathan Hernandez! 👋
+# I'm Jonathan Hernandez! 👋
 
 <p align="center">
   <a href="https://github.com/UrielHernandez03">
@@ -56,6 +56,4 @@ I design efficient database models and optimize queries and indexes to improve a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UrielHernandez03&theme=tokyonight&hide_border=true&background=0D1117" alt="Jonathan's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="800" alt="line">
-</p>
+
