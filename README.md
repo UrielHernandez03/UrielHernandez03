@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Jonathan</h1>
+  <h1>Jonathan Uriel Ortiz Hernandez</h1>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="800" alt="line">
 </div>
 
